@@ -1,2 +1,2 @@
 # tutorials
-VO Tutorials as
+VO Tutorials as Jupyter Notebooks
